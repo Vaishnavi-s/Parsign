@@ -1,0 +1,20 @@
+.bg{
+    background-image: url("../../images/lens-1209823_1280.jpg");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+.bgg{
+
+    background-image: url("../../images/photography.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* opacity: 0.5; */
+    background-color: white;  
+    z-index:0;
+}

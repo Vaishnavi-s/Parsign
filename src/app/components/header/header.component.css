@@ -1,0 +1,11 @@
+.hdr{
+    height:70px;
+    background-color: rgb(255,255,255,0.5);
+    width:100%;
+    position: fixed;
+    z-index: 1;
+}
+
+.content{
+    
+}
